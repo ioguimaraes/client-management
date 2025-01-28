@@ -1,0 +1,28 @@
+{
+    "name": "ioguimaraes/client-management",
+    "description": "projeto sem uso de framework desenvolvido em PHP para gerenciamento de cliente com tela de login",
+    "license": "MIT",
+    "authors": [
+    {
+      "name": "Igor de Oliveira Guimarães",
+      "email": "ig.oliveragui@gmail.com",
+      "homepage": "https://ioguimaraes.com/"
+    }
+  ],
+  "require": {
+    "php": ">=7.4.0",
+    "vlucas/phpdotenv":"*"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "repositories": [{
+    "type": "composer",
+    "url": "https://packagist.org",
+    "options": {
+      "ssl":  {
+        "verify_peer": false,
+        "allow_self_signed": true
+      }
+    }
+  }]
+}
