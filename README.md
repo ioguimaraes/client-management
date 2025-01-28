@@ -1,4 +1,4 @@
-# PROPPOSTA - GERENCIADOR DE CLIENTES
+# PROPOSTA - GERENCIADOR DE CLIENTES
 
 ## Descrição
 
@@ -48,7 +48,7 @@ Para criar o database necessário para a aplicação rode corretamente, após co
 
 ![image](/assets/img/image_5.png)
 
-No menu superior, acessar a opção SQL e executar o conteudo do arquivo `database.sql` que se encontra dentro da pasta `SQL` do projeto
+No menu superior, acessar a opção SQL e executar o conteúdo do arquivo `database.sql` que se encontra dentro da pasta `SQL` do projeto
 
 ### Utilização
 
@@ -62,7 +62,7 @@ A página inicial do projeto solicitará o login, caso não tenha um, clique no 
 
 ![image](/assets/img/image_7.png)
 
-Ao logar na aplicação, será apresentado o dashboard de genreciamento dos clientes cadastrados
+Ao logar na aplicação, será apresentado o dashboard de gerenciamento dos clientes cadastrados
 
 ![image](/assets/img/image_8.png)
 
